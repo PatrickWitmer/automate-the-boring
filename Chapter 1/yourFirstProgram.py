@@ -18,3 +18,5 @@ else:
 
 print('The length of your age is:')
 print(len(my_age))
+
+print('Your age will be ' + str(int(my_age) + 1) + ' in a year.')
