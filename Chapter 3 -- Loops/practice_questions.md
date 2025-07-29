@@ -32,10 +32,10 @@
   ```
 
   ```
-count = 1
-while count < 11:
-  print(count)
-  count += 1
+  count = 1
+  while count < 11:
+    print(count)
+    count += 1
   ```  
 
 5.  If you had a function named bacon() inside a module named spam, how would you call it after importing spam?
